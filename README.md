@@ -137,7 +137,7 @@ We welcome contributions! If you have new security prompts or improvements, feel
 
 🔗 **Visit the website:**  [nucleiprompts.com](http://nucleiprompts.com)
 
-📌 **GitHub Repo:**  [github.com/nucleiprompts.com](https://github.com/huseyinstif/Nuclei-AI-Prompts)
+📌 **GitHub Repo:**  [https://github.com/huseyinstif/Nuclei-AI-Prompts](https://github.com/huseyinstif/Nuclei-AI-Prompts)
 
 ## Contact
 
